@@ -1,0 +1,2 @@
+# mario-game
+IT IS A SMALL COPY OF THE MARIO GAME
